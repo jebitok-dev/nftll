@@ -1,4 +1,4 @@
-// ERC721 NFT project 
+# ERC721 NFT project 
 ERC721 NFT project built on Conflux Network using [Witnet](Witnet.io).
  
 ## Built With
